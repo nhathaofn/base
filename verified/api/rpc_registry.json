@@ -1,0 +1,1137 @@
+[
+  {
+    "rpc_id": "JJH6Ub",
+    "service_method": "/AiSandbox.AddUserAcknowledgement",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "pmmFvb",
+    "service_method": "/AiSandbox.AddUserRegistration",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cO7JOb",
+    "service_method": "/AiSandbox.CheckAppAvailability",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "KV2T2d",
+    "service_method": "/AiSandbox.CheckToolAvailability",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "NfrxTb",
+    "service_method": "/AiSandbox.CheckUserAcknowledgement",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "jHPbke",
+    "service_method": "/AiSandbox.CreateProject",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "dpwTMe",
+    "service_method": "/AiSandbox.CreateScene",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "QI2zvc",
+    "service_method": "/AiSandbox.DeleteProject",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Adnnof",
+    "service_method": "/AiSandbox.DeleteScene",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "LPzVkd",
+    "service_method": "/AiSandbox.FetchUserRecommendations",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Uhba0c",
+    "service_method": "/AiSandbox.GetMedia",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "ngNC2",
+    "service_method": "/AiSandbox.GetProject",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "X1yU8",
+    "service_method": "/AiSandbox.GetScene",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "xI9TVb",
+    "service_method": "/AiSandbox.GetUserPreferences",
+    "source_bundle": "bundle_3.js"
+  },
+  {
+    "rpc_id": "DviW9c",
+    "service_method": "/AiSandbox.GetUserVideoCreditStatusAction",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "e1OaUd",
+    "service_method": "/AiSandbox.GetWorkflow",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "IxdSwd",
+    "service_method": "/AiSandbox.RunVideoFxCheckConcatenationStatus",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "GjQLTd",
+    "service_method": "/AiSandbox.RunVideoFxConcatenation",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "GI4k8",
+    "service_method": "/AiSandbox.SearchProjectScenes",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "SIzNd",
+    "service_method": "/AiSandbox.SearchProjectWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "OylIJd",
+    "service_method": "/AiSandbox.SearchUserProjects",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "aZDXX",
+    "service_method": "/AiSandbox.SearchUserWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Docasf",
+    "service_method": "/AiSandbox.SubmitFeedback",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "Kcr7Ub",
+    "service_method": "/AiSandbox.UpdateAgentInfo",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "o8DA4",
+    "service_method": "/AiSandbox.UpdateProjectInfo",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "bk2bVd",
+    "service_method": "/AiSandbox.UpdateScene",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "mu42vc",
+    "service_method": "/AiSandbox.UpdateUserPreferences",
+    "source_bundle": "bundle_3.js"
+  },
+  {
+    "rpc_id": "s6Qwyc",
+    "service_method": "/AiSandbox.UpdateUserRetentionNotificationCount",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "wDg3C",
+    "service_method": "/EntityService.BatchGetEntities",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "YIBQMe",
+    "service_method": "/EntityService.CopyEntity",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "C4BZMd",
+    "service_method": "/EntityService.CreateEntity",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "LXpojc",
+    "service_method": "/EntityService.DeleteEntityImageReference",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "eAenfb",
+    "service_method": "/EntityService.GenerateCharacterPrompt",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "JCZWLc",
+    "service_method": "/EntityService.GetEntity",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "DLs3dd",
+    "service_method": "/EntityService.ListEntities",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "rzMKMb",
+    "service_method": "/EntityService.UpdateEntity",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "UaAwic",
+    "service_method": "/FlowAppletAgentService.AdminDeleteApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "tmHIkc",
+    "service_method": "/FlowAppletAgentService.BlockApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "HqMS3",
+    "service_method": "/FlowAppletAgentService.ClearAppletSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "VVrfbf",
+    "service_method": "/FlowAppletAgentService.CopyApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "zpwzEe",
+    "service_method": "/FlowAppletAgentService.DeleteApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "AmBK3b",
+    "service_method": "/FlowAppletAgentService.DeleteGoogleOwnedApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "ipGN1",
+    "service_method": "/FlowAppletAgentService.DeleteSavedSharedApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "AsR0Se",
+    "service_method": "/FlowAppletAgentService.ExportAppletSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "eDee9c",
+    "service_method": "/FlowAppletAgentService.FavoriteApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "CSvxid",
+    "service_method": "/FlowAppletAgentService.ForkSharedApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "e6lwif",
+    "service_method": "/FlowAppletAgentService.GetApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "ZLaYcd",
+    "service_method": "/FlowAppletAgentService.GetAppletVersion",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "J0KDW",
+    "service_method": "/FlowAppletAgentService.GetSharedAppletVersion",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "cIafDb",
+    "service_method": "/FlowAppletAgentService.GetSharedAppletVersionPreview",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "tRARke",
+    "service_method": "/FlowAppletAgentService.ListApplets",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "qJcgMc",
+    "service_method": "/FlowAppletAgentService.ListSavedSharedApplets",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "CvpHmb",
+    "service_method": "/FlowAppletAgentService.RevertAppletVersion",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Z8KLDf",
+    "service_method": "/FlowAppletAgentService.RunAppletAgent",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "cNQB4b",
+    "service_method": "/FlowAppletAgentService.RunAppletAgentSse",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "VdM3v",
+    "service_method": "/FlowAppletAgentService.SaveSharedApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "YRmDpc",
+    "service_method": "/FlowAppletAgentService.SeedApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "vEIlvc",
+    "service_method": "/FlowAppletAgentService.ShareApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "NpB2cd",
+    "service_method": "/FlowAppletAgentService.SubmitAppletReview",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Ifmob",
+    "service_method": "/FlowAppletAgentService.UnblockApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "TsaPHc",
+    "service_method": "/FlowAppletAgentService.UnfavoriteApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "h4NnAe",
+    "service_method": "/FlowAppletAgentService.UnshareApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "sd0GXe",
+    "service_method": "/FlowAppletAgentService.UpdateApplet",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "XbyPOc",
+    "service_method": "/FlowAppletAgentService.UpdateGoogleOwnedAppletMetadata",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Az898d",
+    "service_method": "/FlowCreationAgentService.CancelTurn",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "csbIsb",
+    "service_method": "/FlowCreationAgentService.CreateSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Dcn2Le",
+    "service_method": "/FlowCreationAgentService.DeleteSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "GN0Bre",
+    "service_method": "/FlowCreationAgentService.GetSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "mrlkwd",
+    "service_method": "/FlowCreationAgentService.ListSessions",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "P0WGvd",
+    "service_method": "/FlowCreationAgentService.RecordSessionView",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "TunYMc",
+    "service_method": "/FlowCreationAgentService.RenameSession",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "xNyCid",
+    "service_method": "/FlowCreationAgentService.StreamChat",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "ve2Lsc",
+    "service_method": "/FlowLikenessService.CheckUserLikenessEligibility",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "KaLHHf",
+    "service_method": "/FlowLikenessService.DeleteUserLikeness",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "lv2lXd",
+    "service_method": "/FlowLikenessService.GetLikenessRegistrationStatus",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "T3Zezf",
+    "service_method": "/FlowLikenessService.GetLikenessRegistrationUrl",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "DTaVef",
+    "service_method": "/FlowLikenessService.ListUserLikenesses",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "heTLee",
+    "service_method": "/FlowSearchFrontendService.SearchMedia",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "oWTRd",
+    "service_method": "/FlowService.AddWorkflowsToScene",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Z9cAtf",
+    "service_method": "/FlowService.BatchAsyncGenerateImages",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cz8Z4b",
+    "service_method": "/FlowService.BatchDeleteAssets",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "BLIwAb",
+    "service_method": "/FlowService.BatchDeleteScenes",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "GLc8O",
+    "service_method": "/FlowService.BatchEnrichMedia",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "no0P6",
+    "service_method": "/FlowService.BatchGenerateAudio",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "ogiZ0b",
+    "service_method": "/FlowService.BatchGenerateImages",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Hbi7j",
+    "service_method": "/FlowService.BatchGetCollections",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Iyc41d",
+    "service_method": "/FlowService.BatchGetMedia",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "uRk1o",
+    "service_method": "/FlowService.BatchGetProjects",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "yfXKib",
+    "service_method": "/FlowService.BatchGetSceneWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "jtGUlf",
+    "service_method": "/FlowService.BatchGetScenes",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "vrrFtb",
+    "service_method": "/FlowService.BatchGetWorkflows",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "WuwhI",
+    "service_method": "/FlowService.BatchLogFrontendEvents",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "kVdhHf",
+    "service_method": "/FlowService.BatchMoveToCollection",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "pGCYOe",
+    "service_method": "/FlowService.BatchUpdateWorkflows",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "CK0Pk",
+    "service_method": "/FlowService.CancelMediaGeneration",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Dp1eae",
+    "service_method": "/FlowService.CheckUserCloudPermission",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Sc7aEb",
+    "service_method": "/FlowService.CopyProjectMedia",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "OSd63c",
+    "service_method": "/FlowService.CopyScene",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "XKxtXb",
+    "service_method": "/FlowService.CopyWorkflow",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Uxbujd",
+    "service_method": "/FlowService.CreateCollection",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "rqZuUc",
+    "service_method": "/FlowService.CreateScene",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "agJzFb",
+    "service_method": "/FlowService.GenerateContent",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "QiuWMe",
+    "service_method": "/FlowService.GetCollection",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "QLXvEd",
+    "service_method": "/FlowService.GetG1Interventions",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "as29s",
+    "service_method": "/FlowService.GetMedia",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "HU68fc",
+    "service_method": "/FlowService.GetMediaServingUrl",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "uurnC",
+    "service_method": "/FlowService.GetMediaUrl",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "HTrJv",
+    "service_method": "/FlowService.GetModels",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Hnrtob",
+    "service_method": "/FlowService.GetProject",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Zzl0ze",
+    "service_method": "/FlowService.GetProjectContents",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "UpteDb",
+    "service_method": "/FlowService.GetProjects",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "O12LBf",
+    "service_method": "/FlowService.GetScene",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "kDiqOe",
+    "service_method": "/FlowService.GetSceneWorkflow",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "uwAyfb",
+    "service_method": "/FlowService.GetSceneWorkflows",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "cMxpTd",
+    "service_method": "/FlowService.GetSharedMedia",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "Yizz8d",
+    "service_method": "/FlowService.GetUserSettings",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "L91dPd",
+    "service_method": "/FlowService.GetWorkflow",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "yvJRsc",
+    "service_method": "/FlowService.GrantG1Incentive",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "pmaQ3b",
+    "service_method": "/FlowService.ImportSharedMedia",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "m1QyH",
+    "service_method": "/FlowService.InitializeFlowEnterprise",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "rEhmZd",
+    "service_method": "/FlowService.ListCollections",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "bOKtO",
+    "service_method": "/FlowService.ListMedia",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "yBhWQ",
+    "service_method": "/FlowService.ListModelStatuses",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "okjlg",
+    "service_method": "/FlowService.ListProjects",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "ncZTKe",
+    "service_method": "/FlowService.ListSceneWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Xffewf",
+    "service_method": "/FlowService.ListScenes",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Mf1z1c",
+    "service_method": "/FlowService.ListUserFlowEnterpriseCloudProjects",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "LWkPYd",
+    "service_method": "/FlowService.ListUserWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "kGwJ9b",
+    "service_method": "/FlowService.ListWorkflows",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "RaYiHf",
+    "service_method": "/FlowService.RecordG1InterventionInteraction",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "J2mwWb",
+    "service_method": "/FlowService.ShareMedia",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "L2jnw",
+    "service_method": "/FlowService.StreamGenerateContent",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "sAVZzc",
+    "service_method": "/FlowService.TransformImage",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "BLuntc",
+    "service_method": "/FlowService.UnshareMedia",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "O2COMe",
+    "service_method": "/FlowService.UpdateCollection",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "lt8g5",
+    "service_method": "/FlowService.UpdateMedia",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "BpMsoe",
+    "service_method": "/FlowService.UpdateScene",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "dtQlBe",
+    "service_method": "/FlowService.UpdateSceneWorkflow",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "GoMJte",
+    "service_method": "/FlowService.UpdateSceneWorkflows",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "H5ewbd",
+    "service_method": "/FlowService.UpdateScenes",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "DA4VGb",
+    "service_method": "/FlowService.UpdateUserSettings",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "iVqlKd",
+    "service_method": "/FlowService.UpdateVideoOffset",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "mYWVGd",
+    "service_method": "/FlowService.UpdateWorkflow",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "epopJ",
+    "service_method": "/FlowService.UploadGeneratedAudio",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "maseQ",
+    "service_method": "/FlowService.UploadImage",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "a3UfBf",
+    "service_method": "/FlowService.UploadVideo",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "SPrCad",
+    "service_method": "/FlowService.UpsampleImage",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "syFRRe",
+    "service_method": "/FlowSharingService.GetProjectDetails",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "Qrv5xc",
+    "service_method": "/FlowSharingService.GetSharedProjects",
+    "source_bundle": "bundle_1.js"
+  },
+  {
+    "rpc_id": "uhRpkc",
+    "service_method": "/FlowSharingService.ShareProject",
+    "source_bundle": "chunk_studio_0.js"
+  },
+  {
+    "rpc_id": "YTnJl",
+    "service_method": "/InternalPeopleService.AddPhoneBasedProfileVisibilityAcl",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "NTqQeb",
+    "service_method": "/InternalPeopleService.AddPhoneBasedProfileVisibilityAclForGaiaReader",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "vuMhXe",
+    "service_method": "/InternalPeopleService.AddToMyContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "dfEfxe",
+    "service_method": "/InternalPeopleService.BlockPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "EYPu5e",
+    "service_method": "/InternalPeopleService.BulkInsertContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "drK0v",
+    "service_method": "/InternalPeopleService.CreateContactGroups",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "RcR0yd",
+    "service_method": "/InternalPeopleService.DeleteContactGroups",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Ag8LYc",
+    "service_method": "/InternalPeopleService.DeletePeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "FHOCLd",
+    "service_method": "/InternalPeopleService.DeletePersonPhoto",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "UyrjXe",
+    "service_method": "/InternalPeopleService.FetchBackUpDeviceContactInfo",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "TLev1c",
+    "service_method": "/InternalPeopleService.GetContactGroups",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "enykc",
+    "service_method": "/InternalPeopleService.GetDirectoryIndex",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "VeAN2c",
+    "service_method": "/InternalPeopleService.GetLimitedProfileChoices",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "egmKmf",
+    "service_method": "/InternalPeopleService.GetMessagesProfileAccessToken",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "o30O0e",
+    "service_method": "/InternalPeopleService.GetPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "dvDVle",
+    "service_method": "/InternalPeopleService.GetPersonPhotoEncoded",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "qxCAdb",
+    "service_method": "/InternalPeopleService.GetPublicPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "P7sk3d",
+    "service_method": "/InternalPeopleService.InsertPerson",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "RcItAc",
+    "service_method": "/InternalPeopleService.ListAllPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "zWuTOe",
+    "service_method": "/InternalPeopleService.ListAnnotatedContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "x6ag3",
+    "service_method": "/InternalPeopleService.ListBlockedPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "m8kykf",
+    "service_method": "/InternalPeopleService.ListCircledPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "jLD2df",
+    "service_method": "/InternalPeopleService.ListCircles",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "xtglob",
+    "service_method": "/InternalPeopleService.ListContactGroups",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "pcDSI",
+    "service_method": "/InternalPeopleService.ListContactPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Pr65yd",
+    "service_method": "/InternalPeopleService.ListDirectoryPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "pd379d",
+    "service_method": "/InternalPeopleService.ListPeopleByCircle",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "PnAUeb",
+    "service_method": "/InternalPeopleService.ListPeopleByGroup",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "e3Amyf",
+    "service_method": "/InternalPeopleService.ListPeopleByKnownId",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Qagez",
+    "service_method": "/InternalPeopleService.ListPublicPeopleByPhone",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "gxLfEb",
+    "service_method": "/InternalPeopleService.ListRankedPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "s00Wxb",
+    "service_method": "/InternalPeopleService.ListRankedTargets",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "w9sHx",
+    "service_method": "/InternalPeopleService.ListStarredPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "eahEVe",
+    "service_method": "/InternalPeopleService.ListTrashedContactPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Aq1f4e",
+    "service_method": "/InternalPeopleService.MutateContactGroupMemberships",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Yt9pW",
+    "service_method": "/InternalPeopleService.RecordPeopleInteraction",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cUBiIc",
+    "service_method": "/InternalPeopleService.ReportPerson",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "EErZ0e",
+    "service_method": "/InternalPeopleService.RestoreDeviceContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "B4pDmd",
+    "service_method": "/InternalPeopleService.Revert",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Ysuf1b",
+    "service_method": "/InternalPeopleService.RevokePhoneBasedProfileVisibilityAcl",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "X18iAf",
+    "service_method": "/InternalPeopleService.RevokePhoneBasedProfileVisibilityAclForGaiaReader",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "SVN3Zb",
+    "service_method": "/InternalPeopleService.SearchContactPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cNMbMd",
+    "service_method": "/InternalPeopleService.SearchDirectoryPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cRvg2c",
+    "service_method": "/InternalPeopleService.SearchPhoneticContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "eS3Qm",
+    "service_method": "/InternalPeopleService.StarPerson",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "SVlREb",
+    "service_method": "/InternalPeopleService.SubscribeToChangeNotification",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "y69Wzf",
+    "service_method": "/InternalPeopleService.SyncDirectoryPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "xaPsAd",
+    "service_method": "/InternalPeopleService.SyncPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "SOvRI",
+    "service_method": "/InternalPeopleService.TouchPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Oge8Od",
+    "service_method": "/InternalPeopleService.UnblockPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cEUqSd",
+    "service_method": "/InternalPeopleService.UntrashContacts",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "aWpAxb",
+    "service_method": "/InternalPeopleService.UpdateContactGroups",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Ilo2Rd",
+    "service_method": "/InternalPeopleService.UpdateContactPeople",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "H1e9Be",
+    "service_method": "/InternalPeopleService.UpdatePerson",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "vvWmwb",
+    "service_method": "/InternalPeopleService.UpdatePersonPhoto",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "jIps6",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoEditVideo",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "IJhj9c",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoExperimental",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "fZytfe",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoExtendVideo",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "MZZa6b",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoReferenceImages",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "nprQif",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoStartAndEndImage",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "eb1hJf",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoStartImage",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "YhhmEf",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoText",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "p0UkFb",
+    "service_method": "/VideoFxService.BatchAsyncGenerateVideoUpsampleVideo",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "jwpduf",
+    "service_method": "/VideoFxService.BatchCheckAsyncVideoGenerationStatus",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "rThb8d",
+    "service_method": "/VideoFxService.CheckFlowAvailability",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "Yw72Rc",
+    "service_method": "/VideoFxService.CreatePreamble",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "x9P9ne",
+    "service_method": "/VideoFxService.DeletePreamble",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "okiZaf",
+    "service_method": "/VideoFxService.DismissSiteContentIds",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "QZasKb",
+    "service_method": "/VideoFxService.GeneratePinholeGif",
+    "source_bundle": "chunk_studio_1.js"
+  },
+  {
+    "rpc_id": "nzlxg",
+    "service_method": "/VideoFxService.GetCredits",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "cPZSdc",
+    "service_method": "/VideoFxService.GetFlowAppConfig",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "gS5h8c",
+    "service_method": "/VideoFxService.GetUserSettings",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "OqcWz",
+    "service_method": "/VideoFxService.ListPreambles",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "BejPuf",
+    "service_method": "/VideoFxService.LogMediaBookmark",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "e97Odc",
+    "service_method": "/VideoFxService.SetupStarterProjects",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "JnpaK",
+    "service_method": "/VideoFxService.UpdatePreamble",
+    "source_bundle": "bundle_0.js"
+  },
+  {
+    "rpc_id": "wX5DAe",
+    "service_method": "/VideoFxService.UpdateUserSettings",
+    "source_bundle": "bundle_0.js"
+  }
+]
